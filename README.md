@@ -5,7 +5,7 @@ Portable feature-based-skill plus the per-project agent workflow files that poin
 ## Install a skill (global, for every project)
 
 ```
-npx skills add effinrich/agent-skills --skill feature-based-architecture -g -a cursor -a claude-code -a codex -a windsurf -y
+npx skills add effinrich/feature-based-skill --skill feature-based-architecture -g -a cursor -a claude-code -a codex -a windsurf -y
 ```
 
 This installs to `~/.agents/skills/feature-based-architecture/`.
