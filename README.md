@@ -1,6 +1,6 @@
-# feature-based-architecture-skills
+# feature-based-skill
 
-Portable feature-based-architecture-skills plus the per-project agent workflow files that point at them.
+Portable feature-based-skill plus the per-project agent workflow files that point at them.
 
 ## Install a skill (global, for every project)
 
